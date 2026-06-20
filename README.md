@@ -17,10 +17,4 @@ const fatalieff = {
   location: "📍 Baku, Azerbaijan",
   motto: "A line of code a day keeps the bugs away."
 };
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SCSS-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="SCSS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next" />
-</p>
+
