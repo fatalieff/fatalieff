@@ -12,6 +12,8 @@
 
 ```javascript
 const fatalieff = {
+  surname: "Mourad"
+  lastname: "Fatalief"
   status: "📚 Full-time Student & 💻 Working Professional",
   passion: "Writing lines of code and building clean web experiences!",
   location: "📍 Baku, Azerbaijan",
