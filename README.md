@@ -225,9 +225,5 @@ React, Tailwind CSS, Redux Toolkit
 <br/>
 
 <div align="center">
-  <sub>Designed as an ultra premium profile showcase.</sub>
-</div>
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:67e8f9,35:2563eb,68:7c3aed,100:030712" alt="Footer" />
 </div>
