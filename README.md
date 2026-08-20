@@ -67,50 +67,27 @@ const murad = {
 
 ## ▣ &nbsp;`<SelectedWork />`
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
 ### 01 — Gala Garden Cinema
 
-Open-air cinema platform with a responsive experience, movie exploration, food ordering, and Telegram Bot API-powered real-time notifications.
-
-`React` `Frontend workflows` `Telegram Bot API`
-
-[View live project →](https://galagardencinema.site/)
-
-    </td>
-    <td width="33%" valign="top">
+> **Open-air cinema platform** with a responsive experience, movie exploration, food ordering, and Telegram Bot API-powered real-time notifications.<br />
+> `React` · `Frontend workflows` · `Telegram Bot API` · [View live project →](https://galagardencinema.site/)
 
 ### 02 — Admin Dashboard
 
-Dynamic management dashboard with strong layout structure, API integration, and clean data visualization.
-
-`React` `Ant Design` `Tailwind CSS` `Axios` `Recharts`
-
-[View live project →](https://admin-dashboard-rust-six-97.vercel.app/)
-
-    </td>
-    <td width="33%" valign="top">
+> **Dynamic management dashboard** with strong layout structure, API integration, and clean data visualization.<br />
+> `React` · `Ant Design` · `Tailwind CSS` · `Axios` · `Recharts` · [View live project →](https://admin-dashboard-rust-six-97.vercel.app/)
 
 ### 03 — Foodie
 
-Food delivery landing page with clear visual hierarchy, strong UI sections, and smooth frontend interaction.
-
-`React` `Tailwind CSS` `Redux Toolkit`
-
-[View live project →](https://foodie-react-one.vercel.app/)
-
-    </td>
-  </tr>
-</table>
+> **Food delivery landing page** with clear visual hierarchy, strong UI sections, and smooth frontend interaction.<br />
+> `React` · `Tailwind CSS` · `Redux Toolkit` · [View live project →](https://foodie-react-one.vercel.app/)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## ◌ &nbsp;`<GitHubPulse />`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fatalieff&show_icons=true&hide_border=true&border_radius=16&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fatalieff&show_icons=true&hide_border=true&border_radius=16&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatalieff&hide_border=true&border_radius=16&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=94a3b8&stroke=1e293b" alt="GitHub streak" />
 </div>
 
@@ -120,13 +97,7 @@ Food delivery landing page with clear visual hierarchy, strong UI sections, and 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatalieff&bg_color=020617&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&area_color=312e81&hide_border=true&radius=16&custom_title=commit%20signal" width="100%" alt="Contribution activity graph" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatalieff/fatalieff/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatalieff/fatalieff/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/fatalieff/fatalieff/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
-  </picture>
-</div>
+<div align="center"><img src="assets/contribution-flow.svg" width="100%" alt="Animated contribution flow" /></div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
