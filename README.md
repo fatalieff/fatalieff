@@ -82,6 +82,11 @@ const murad = {
 > **Food delivery landing page** with clear visual hierarchy, strong UI sections, and smooth frontend interaction.<br />
 > `React` · `Tailwind CSS` · `Redux Toolkit` · [View live project →](https://foodie-react-one.vercel.app/)
 
+### 04 — HəllVar
+
+> **A service platform** that offers customers fast, convenient, and reliable support for home and technical needs. It brings together skilled workers, home services, and IT/technical services in one place.<br />
+> [View live project →](https://hell-var.vercel.app/)
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## ◌ &nbsp;`<GitHubPulse />`
