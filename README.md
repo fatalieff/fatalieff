@@ -86,10 +86,7 @@ const murad = {
 
 ## ◌ &nbsp;`<GitHubPulse />`
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fatalieff&show_icons=true&hide_border=true&border_radius=16&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatalieff&hide_border=true&border_radius=16&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=94a3b8&stroke=1e293b" alt="GitHub streak" />
-</div>
+<div align="center"><img src="assets/telemetry.svg" width="100%" alt="Frontend developer telemetry" /></div>
 
 <br />
 

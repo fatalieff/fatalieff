@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">Frontend developer telemetry</title>
+  <desc id="desc">A pair of animated interface cards showing Murad's current developer focus and workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111c3f"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <rect x="10" y="10" width="475" height="190" rx="16" fill="url(#bg)" stroke="#1e293b"/>
+  <rect x="515" y="10" width="475" height="190" rx="16" fill="url(#bg)" stroke="#1e293b"/>
+  <g font-family="monospace"><text x="42" y="47" fill="#22d3ee" font-size="13" letter-spacing="2">CURRENT FOCUS</text><text x="42" y="79" fill="#f8fafc" font-size="20">Building product-ready UI</text><text x="42" y="108" fill="#94a3b8" font-size="14">clarity  •  performance  •  user flow</text><path d="M42 140H440" stroke="#1e293b"/><path d="M42 140H320" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 278;278 0;0 278" dur="5s" repeatCount="indefinite"/></path><text x="42" y="172" fill="#a5b4fc" font-size="13">React / Next.js / Tailwind CSS</text>
+  <text x="547" y="47" fill="#a78bfa" font-size="13" letter-spacing="2">WORKFLOW</text><text x="547" y="79" fill="#f8fafc" font-size="20">Idea → interface → ship</text><g fill="#164e63"><rect x="547" y="112" width="68" height="12" rx="6"/><rect x="628" y="112" width="68" height="12" rx="6"/><rect x="709" y="112" width="68" height="12" rx="6"/><rect x="790" y="112" width="68" height="12" rx="6"/></g><circle cy="118" r="9" fill="#22d3ee"><animate attributeName="cx" values="554;851;554" dur="4s" repeatCount="indefinite"/></circle><text x="547" y="172" fill="#67e8f9" font-size="13">available for frontend collaboration</text></g>
+</svg>
