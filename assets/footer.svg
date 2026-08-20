@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" role="presentation">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#312e81"/><stop offset="1" stop-color="#083344"/></linearGradient></defs>
+  <rect width="1200" height="120" rx="16" fill="url(#g)"/><path d="M0 70C180 20 280 120 470 68S780 12 960 66s170 8 240-22v76H0Z" fill="#22d3ee" opacity=".12"><animate attributeName="d" values="M0 70C180 20 280 120 470 68S780 12 960 66s170 8 240-22v76H0Z;M0 60C150 105 320 10 500 65S800 115 960 57s170 18 240 0v63H0Z;M0 70C180 20 280 120 470 68S780 12 960 66s170 8 240-22v76H0Z" dur="8s" repeatCount="indefinite"/></path>
+  <text x="600" y="62" text-anchor="middle" fill="#e0f2fe" font-family="monospace" font-size="14" letter-spacing="3">THANKS FOR DROPPING BY</text>
+  <text x="600" y="86" text-anchor="middle" fill="#67e8f9" font-family="monospace" font-size="11">BUILD • LEARN • SHIP</text>
+</svg>

@@ -1,229 +1,176 @@
+<!-- Hand-crafted profile: original SVG motion and interface visuals in /assets. -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:030712,22:0f172a,50:1d4ed8,76:7c3aed,100:67e8f9&text=Murad%20Fataliyev&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=39&desc=Frontend%20Developer%20%20%E2%9C%A6%20%20Clean%20interfaces%2C%20fast%20experiences%2C%20modern%20web%20products&descAlignY=62&descSize=20&descColor=e9d5ff" alt="Murad Fataliyev header" />
+  <img src="assets/hero.svg" width="100%" alt="Murad Fataliyev — Frontend Developer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=67E8F9&center=true&vCenter=true&width=980&lines=Crafting+interfaces+that+feel+premium;React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS;Frontend+focused+on+clarity%2C+speed+and+UX;Always+building.+Always+improving." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=const+idea+%3D+%22make+it+clear%2C+fast%2C+and+beautiful%22%3B;React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Always+building.+Always+improving." alt="Typing introduction" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=fatalieff&style=for-the-badge&color=22d3ee&label=VISITORS&labelColor=020617" alt="Profile views" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22d3ee?style=for-the-badge&labelColor=020617" alt="Open to work" />
+  <img src="https://img.shields.io/badge/BASE-BAKU%2C_AZERBAIJAN-a78bfa?style=for-the-badge&labelColor=020617" alt="Baku, Azerbaijan" />
+  <img src="https://img.shields.io/badge/LEVEL-JUNIOR-38bdf8?style=for-the-badge&labelColor=020617" alt="Junior level" />
 </div>
+
+<br />
+<img src="assets/divider.svg" width="100%" alt="" />
+<br />
+
+## ◈ &nbsp;`$ murad --profile`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatalieff&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS&labelColor=0b1120" alt="Profile views" />
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-a855f7?style=for-the-badge&labelColor=0b1120" alt="Status" />
-  <img src="https://img.shields.io/badge/LOCATION-Baku%2C%20Azerbaijan-38bdf8?style=for-the-badge&labelColor=0b1120" alt="Location" />
-  <img src="https://img.shields.io/badge/LEVEL-Junior-7c3aed?style=for-the-badge&labelColor=0b1120" alt="Level" />
+  <img src="assets/terminal.svg" width="88%" alt="Terminal profile introduction" />
 </div>
 
-<div align="center">
-  <a href="mailto:murad.feteliyev.2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=111827" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mourad-fatalief">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=111827" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/fatalieff">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111827" alt="GitHub" />
-  </a>
-</div>
+<br />
 
-<br/>
+> I build polished frontend experiences with strong structure, modern tooling, and a product-first mindset.
 
-<div align="center">
-  <sub>Building polished frontend experiences with strong structure, modern tooling, and a product-first mindset.</sub>
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Brand%20Statement-Turning%20clean%20ideas%20into%20premium%20frontend%20experiences-111827?style=for-the-badge&labelColor=111827&logoColor=67e8f9" alt="Brand Statement" />
-</div>
-
----
-
-## Executive Snapshot
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-### About
-
-Frontend Developer passionate about building fast, clean, and visually polished web apps. I enjoy transforming ideas into interfaces that feel modern, intuitive, and production-ready.
-
-- Focused on responsive frontend architecture
-- Care about clarity, performance, and user flow
-- Comfortable with modern React ecosystem patterns
-- Always exploring better tools and better implementation detail
-
-### Current Focus
-
-- Sharper UI quality
-- Stronger product thinking
-- Better frontend scalability
-
-    </td>
-    <td width="42%" valign="top">
+**Current focus:** sharper UI quality, stronger product thinking, better frontend scalability, and better implementation detail.
 
 ```ts
 const murad = {
   role: "Frontend Developer",
   location: "Baku, Azerbaijan",
   status: "Open to Work",
-  strengths: [
-    "Clean UI",
-    "Responsive Layouts",
-    "Modern Frontend Tooling",
-  ],
+  strengths: ["Clean UI", "Responsive Layouts", "Modern Frontend Tooling"],
   currentStack: ["React", "Next.js", "Tailwind CSS"],
 };
 ```
 
-   </td>
-  </tr>
-</table>
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
-
-## Tech Signature
+## ✦ &nbsp;`<BuildKit />`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite,nodejs,firebase,supabase,figma,vercel,npm&theme=dark" alt="Tech signature" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,vite,nodejs,firebase,supabase,figma,vercel,npm&theme=dark&perline=14" alt="Technology stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/FRONTEND-HTML5_%C2%B7_CSS3_%C2%B7_JavaScript_ES6%2B_%C2%B7_React_%C2%B7_Next.js_%C2%B7_Tailwind-0f172a?style=flat-square&logo=frontendmentor&logoColor=22d3ee" alt="Frontend technologies" />
+  <br />
+  <img src="https://img.shields.io/badge/STATE_%26_BUILD-Redux_%C2%B7_Zustand_%C2%B7_Vite_%C2%B7_npm-0f172a?style=flat-square&logo=redux&logoColor=a78bfa" alt="State and build technologies" />
+  <br />
+  <img src="https://img.shields.io/badge/UI_%26_TOOLS-Figma_%C2%B7_Vercel-0f172a?style=flat-square&logo=figma&logoColor=38bdf8" alt="UI and tooling" />
+  <br />
+  <img src="https://img.shields.io/badge/BACKEND_BASICS-Node.js_%C2%B7_Supabase_%C2%B7_Firebase-0f172a?style=flat-square&logo=firebase&logoColor=facc15" alt="Backend basics" />
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML5%20%E2%80%A2%20CSS3%20%E2%80%A2%20JavaScript%20ES6%2B%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Tailwind-0b1120?style=flat-square&logo=frontendmentor&logoColor=67e8f9" alt="Frontend" />
-  <br/>
-  <img src="https://img.shields.io/badge/State%20and%20Build-Redux%20%E2%80%A2%20Zustand%20%E2%80%A2%20Vite%20%E2%80%A2%20npm-0b1120?style=flat-square&logo=redux&logoColor=c084fc" alt="State and Build" />
-  <br/>
-  <img src="https://img.shields.io/badge/UI%20and%20Tools-Figma%20%E2%80%A2%20Vercel-0b1120?style=flat-square&logo=figma&logoColor=38bdf8" alt="UI and Tools" />
-  <br/>
-  <img src="https://img.shields.io/badge/Backend%20Basics-Node.js%20%E2%80%A2%20Supabase%20%E2%80%A2%20Firebase-0b1120?style=flat-square&logo=firebase&logoColor=facc15" alt="Backend Basics" />
-</div>
+| Focus now | What it means |
+| :-- | :-- |
+| `01 / UI quality` | Interfaces that look refined and feel intuitive |
+| `02 / Product thinking` | Clear experiences that solve the right problem |
+| `03 / Scalability` | Structured, maintainable frontend solutions |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## Value Proposition
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Premium%20UI-Clean%20visual%20execution-111827?style=for-the-badge&labelColor=111827&logoColor=67e8f9" alt="Premium UI" />
-  <img src="https://img.shields.io/badge/Responsive%20Builds-Smooth%20across%20devices-111827?style=for-the-badge&labelColor=111827&logoColor=c084fc" alt="Responsive Builds" />
-  <img src="https://img.shields.io/badge/Product%20Mindset-Useful%20and%20clear%20interfaces-111827?style=for-the-badge&labelColor=111827&logoColor=38bdf8" alt="Product Mindset" />
-</div>
-
-<br/>
-
-- Build interfaces that look refined and feel intuitive
-- Translate ideas into structured, maintainable frontend solutions
-- Balance visual quality with usability and performance
-- Grow through real products, experimentation, and continuous shipping
-
----
-
-## Open For
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Freelance-Available-0b1120?style=for-the-badge&logoColor=67e8f9" alt="Freelance Available" />
-  <img src="https://img.shields.io/badge/Remote%20Roles-Open-0b1120?style=for-the-badge&logoColor=c084fc" alt="Remote Roles" />
-  <img src="https://img.shields.io/badge/Frontend%20Collaboration-Welcome-0b1120?style=for-the-badge&logoColor=38bdf8" alt="Frontend Collaboration" />
-</div>
-
-<br/>
-
-- Frontend roles where product quality and user experience matter
-- Collaborative work with modern React and Next.js teams
-- Projects that value clean design implementation and maintainable code
-
----
-
-## Featured Projects
-
-<div align="center">
-  <a href="https://galagardencinema.site/">
-    <img src="https://img.shields.io/badge/View-Gala%20Garden%20Cinema-06b6d4?style=for-the-badge&labelColor=111827" alt="Gala Garden Cinema" />
-  </a>
-  <a href="https://admin-dashboard-rust-six-97.vercel.app/">
-    <img src="https://img.shields.io/badge/View-Admin%20Dashboard-a855f7?style=for-the-badge&labelColor=111827" alt="Admin Dashboard" />
-  </a>
-  <a href="https://foodie-react-one.vercel.app/">
-    <img src="https://img.shields.io/badge/View-Foodie-38bdf8?style=for-the-badge&labelColor=111827" alt="Foodie" />
-  </a>
-</div>
-
-<br/>
+## ▣ &nbsp;`<SelectedWork />`
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### Gala Garden Cinema
+### 01 — Gala Garden Cinema
 
-Open-air cinema platform with a clean responsive experience, movie exploration flow, food ordering, and Telegram Bot API powered real-time notifications.
+Open-air cinema platform with a responsive experience, movie exploration, food ordering, and Telegram Bot API-powered real-time notifications.
 
-**Stack**  
-React, frontend workflows, Telegram Bot API
+`React` `Frontend workflows` `Telegram Bot API`
 
-[Live Demo](https://galagardencinema.site/)
+[View live project →](https://galagardencinema.site/)
 
-   </td>
+    </td>
     <td width="33%" valign="top">
 
-### Admin Dashboard
+### 02 — Admin Dashboard
 
-Dynamic admin dashboard built for a modern management experience with strong layout structure, API integration, and clean data visualization.
+Dynamic management dashboard with strong layout structure, API integration, and clean data visualization.
 
-**Stack**  
-React, Ant Design, Tailwind CSS, Axios, Recharts
+`React` `Ant Design` `Tailwind CSS` `Axios` `Recharts`
 
-[Live Demo](https://admin-dashboard-rust-six-97.vercel.app/)
+[View live project →](https://admin-dashboard-rust-six-97.vercel.app/)
 
-   </td>
+    </td>
     <td width="33%" valign="top">
 
-### Foodie
+### 03 — Foodie
 
-Modern food delivery landing page designed with clear visual hierarchy, strong UI sections, and smooth frontend interaction.
+Food delivery landing page with clear visual hierarchy, strong UI sections, and smooth frontend interaction.
 
-**Stack**  
-React, Tailwind CSS, Redux Toolkit
+`React` `Tailwind CSS` `Redux Toolkit`
 
-[Live Demo](https://foodie-react-one.vercel.app/)
+[View live project →](https://foodie-react-one.vercel.app/)
 
-   </td>
+    </td>
   </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## GitHub Metrics
+## ◌ &nbsp;`<GitHubPulse />`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fatalieff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=67e8f9&text_color=e5e7eb&icon_color=c084fc" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=fatalieff&theme=tokyonight&hide_border=true&background=00000000&ring=67e8f9&fire=c084fc&currStreakLabel=67e8f9" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fatalieff&show_icons=true&hide_border=true&border_radius=16&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fatalieff&hide_border=true&border_radius=16&background=020617&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=94a3b8&stroke=1e293b" alt="GitHub streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatalieff&bg_color=020617&color=cbd5e1&line=22d3ee&point=a78bfa&area=true&area_color=312e81&hide_border=true&radius=16&custom_title=commit%20signal" width="100%" alt="Contribution activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatalieff&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatalieff/fatalieff/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatalieff/fatalieff/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/fatalieff/fatalieff/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  </picture>
 </div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ⌘ &nbsp;`<OpenFor />`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatalieff&bg_color=00000000&color=67e8f9&line=a855f7&point=38bdf8&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://img.shields.io/badge/FREELANCE-AVAILABLE-22d3ee?style=for-the-badge&labelColor=020617" alt="Freelance available" />
+  <img src="https://img.shields.io/badge/REMOTE_ROLES-OPEN-a78bfa?style=for-the-badge&labelColor=020617" alt="Remote roles open" />
+  <img src="https://img.shields.io/badge/FRONTEND_COLLABORATION-WELCOME-38bdf8?style=for-the-badge&labelColor=020617" alt="Frontend collaboration welcome" />
 </div>
 
----
+<br />
 
-## Contact
+I am interested in frontend roles where product quality and user experience matter, collaborative work with modern React and Next.js teams, and projects that value clean design implementation with maintainable code.
+
+I grow through real products, experimentation, and continuous shipping.
+
+<details>
+  <summary><b>One small frontend truth</b> ✦</summary>
+  <br />
+
+  ```js
+  const greatInterface = [
+    "clear before clever",
+    "responsive by default",
+    "fast enough to feel invisible",
+  ];
+  ```
+
+  <sub>A good interface should make the next action feel obvious.</sub>
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## ✉ &nbsp;`<Connect />`
 
 <div align="center">
-  <a href="mailto:murad.feteliyev.2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-murad.feteliyev.2020%40gmail.com-0b1120?style=for-the-badge&logo=gmail&logoColor=67e8f9" alt="Email Me" />
-  </a>
-  <a href="https://www.linkedin.com/in/mourad-fatalief">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Mourad%20Fatalief-0b1120?style=for-the-badge&logo=linkedin&logoColor=c084fc" alt="LinkedIn profile" />
-  </a>
+  <p>Have a frontend role, project, or idea in mind? Let’s make it feel premium.</p>
+  <a href="mailto:murad.feteliyev.2020@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-020617?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=312e81" alt="Email Murad" /></a>
+  <a href="https://www.linkedin.com/in/mourad-fatalief"><img src="https://img.shields.io/badge/LINKEDIN-MOURAD_FATALIEF-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=312e81" alt="LinkedIn profile" /></a>
+  <a href="https://github.com/fatalieff"><img src="https://img.shields.io/badge/GITHUB-FATALIEFF-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=312e81" alt="GitHub profile" /></a>
+  <br /><br />
+  <sub>Hand-crafted with original SVG motion, interface details, and a lot of curiosity.</sub>
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:67e8f9,35:2563eb,68:7c3aed,100:030712" alt="Footer" />
-</div>
+<br />
+<div align="center"><img src="assets/footer.svg" width="100%" alt="Animated footer" /></div>

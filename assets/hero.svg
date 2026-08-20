@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Murad Fataliyev — Frontend Developer</title>
+  <desc id="desc">An animated midnight interface with a frontend developer introduction.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#101a42"/><stop offset="1" stop-color="#042f4b"/></linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#5eead4" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <circle cx="1020" cy="80" r="140" fill="#4f46e5" opacity=".14"><animate attributeName="r" values="130;150;130" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="170" cy="300" r="120" fill="#0891b2" opacity=".11"><animate attributeName="cx" values="150;190;150" dur="7s" repeatCount="indefinite"/></circle>
+  <path d="M70 74H1130" stroke="url(#line)" stroke-width="1"/>
+  <text x="70" y="55" fill="#67e8f9" font-family="monospace" font-size="13" letter-spacing="4">MURAD.FTL / INTERFACE LAB</text>
+  <circle cx="1064" cy="49" r="5" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle>
+  <text x="1080" y="54" fill="#cbd5e1" font-family="monospace" font-size="12">ONLINE</text>
+  <text x="70" y="154" fill="#f8fafc" font-family="Arial, sans-serif" font-size="55" font-weight="700">Murad Fataliyev</text>
+  <text x="72" y="191" fill="#a5b4fc" font-family="monospace" font-size="20">Frontend Developer  /  Baku, Azerbaijan</text>
+  <path d="M72 220H610" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"><animate attributeName="stroke-dasharray" values="0 540;540 0;0 540" dur="5s" repeatCount="indefinite"/></path>
+  <text x="72" y="260" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="18">Clean interfaces. Fast experiences. Modern web products.</text>
+  <g transform="translate(860 142)" fill="none" stroke="#67e8f9" stroke-width="2">
+    <rect width="210" height="125" rx="12" stroke="#a78bfa" opacity=".8"/>
+    <path d="M28 36h56M28 60h132M28 84h92" stroke-linecap="round"/>
+    <circle cx="173" cy="40" r="14" fill="#22d3ee" fill-opacity=".15"><animate attributeName="r" values="10;17;10" dur="2.5s" repeatCount="indefinite"/></circle>
+    <path d="M158 86l13 13 23-32" stroke="#a78bfa" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="70" y="311" fill="#64748b" font-family="monospace" font-size="12">DESIGNING WITH CLARITY  •  BUILDING WITH INTENT</text>
+</svg>
