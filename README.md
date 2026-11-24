@@ -72,10 +72,10 @@ const murad = {
 > **Open-air cinema platform** with a responsive experience, movie exploration, food ordering, and Telegram Bot API-powered real-time notifications.<br />
 > `React` · `Frontend workflows` · `Telegram Bot API` · [View live project →](https://galagardencinema.site/)
 
-### 02 — Admin Dashboard
+### 02 — MeyarİZ
 
-> **Dynamic management dashboard** with strong layout structure, API integration, and clean data visualization.<br />
-> `React` · `Ant Design` · `Tailwind CSS` · `Axios` · `Recharts` · [View live project →](https://admin-dashboard-rust-six-97.vercel.app/)
+> **An Azerbaijani teacher-management and student-performance platform** that enables individual mathematics teachers to manage groups, students, schedules, exams, results, and rankings from one dashboard. It provides distinct teacher and student interfaces with role-based access.<br />
+> `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `Recharts` · [View live project →](https://math-rank-umber.vercel.app/)
 
 ### 03 — Foodie
 
